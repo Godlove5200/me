@@ -3,7 +3,7 @@
 
 [URL Rewrite]
 
-^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STSongSC.ttf.+ https://example.com/STSongSC.ttf 302
+^https://raw.githubusercontent.com/Godlove5200/me/master/LXGWWenKai-Regular.ttf 302
 
 # ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STKaitiSC.ttf.+
 # ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STHeitiSC.ttf.+
